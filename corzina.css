@@ -1,0 +1,227 @@
+.header{
+    width: 1600px;
+  }
+  .nav__header__corzina{
+    height: 75px;
+    background-color: #222;
+  }
+
+  .nav__header__start{
+    display: flex;
+    align-items: center;
+    padding: 12px 120px;
+    gap: 25px;
+
+  }
+  .ul__corzina__img{   display: flex;
+  gap: 20px;
+  margin-left: 990px;
+  }
+
+  .poliy__corzina__1{
+    height: 148px;
+    background: #F8F3F4;
+    position: relative;
+    bottom: 30px;
+  }
+  .poliy__corzina__text{
+    padding: 50px 230px;
+    color: #F16D7F;
+    font-size: 24px;
+  }
+
+  .product1__corzina{
+    width: 635px;
+    height: 306px;
+
+    gap: 46px;
+    opacity: 0px;
+    display: flex;
+    align-items: center;
+
+    border: 1px solid white;
+    box-sizing: 13px 12px 19px;
+    box-shadow: 1px 1px 18px 0px;
+    margin-top: 35px;
+    margin-left: 497px;
+}
+  
+
+  .product_img1{
+    width: 262px;
+    height: 306px;
+  }
+
+
+
+  .product2{
+    width: 635px;
+    height: 306px;
+
+    gap: 46px;
+    opacity: 0px;
+    display: flex;
+    align-items: center;
+
+    border: 1px solid white;
+    box-sizing: 13px 12px 19px;
+    box-shadow: 1px 1px 18px 0px;
+    margin-top: 35px;
+    margin-left: 497px;
+}
+  .product__name1__corzina{
+    font-size: 24px;
+    font-weight: 600;
+    color: black;
+    text-decoration: unset;
+  }
+
+
+  .colzina__ul{
+    list-style-type: none;
+    position: relative;
+    right: 37px;
+    top: 64px;
+    font-size: 22px;
+}
+  .corzina__2
+  {
+    position: relative;
+    bottom: 18px;
+    left: 98px;
+    bottom: 24px;
+    border: 1px solid;
+}
+  .corzina__ul___2{
+margin-top: 100px;
+margin-left: 430px;
+display: flex;
+gap: 200px  ;
+  }
+  .button__ul__corzina{
+    width: 235px;
+    padding: 10px 10px;
+
+  }
+  .button__ul__corzina:hover{
+    background-color: aqua;
+    
+  }
+
+
+
+
+  .cart__input__corzina__start{
+
+     position: absolute;
+    bottom: 602px;
+    left: 1300px;
+  }
+
+  .cart__input__corzina__form{
+    display: grid;
+    gap: 16px;
+  }
+
+  .input__corzina{
+    padding: 12px;
+    width: 360px;
+
+  }
+  .butt_cor{
+    width: 104px;
+    background: white;
+  }
+
+  footer{
+    margin-top: 1100px;
+  }
+
+  
+  .footer__end {
+    background-image: url("../img/icon footer/photo subscribe.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 448px;
+  }
+  
+  .class__footer__end {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 223px;
+  }
+  
+  .class__footer__end__div {
+    margin-top: 183px;
+    margin-left: 230px;
+  }
+  
+  .class__footer__end__p {
+    width: 359.45px;
+    height: 99px;
+    color: rgb(34, 34, 36);
+    font-family: Lato;
+    font-style: italic;
+    font-size: 20px;
+  }
+  
+  .class__footer__end__div__2 {
+    margin-top: 128px;
+  }
+  
+  .class__form__end__p {
+    color: rgb(34, 34, 36);
+    font-family: Lato;
+    font-size: 18px;
+  }
+  
+  .class__input__end__form {
+    padding: 7px 22px;
+    background: rgb(225, 225, 225);
+    border-radius: 16px;
+    margin-top: 32px;
+  }
+  
+  .class__button__end__form {
+    background: rgb(241, 109, 127);
+    padding: 7px 8px;
+    border-radius: 12px;
+    /* margin-right: 50px; */
+    position: relative;
+    right: 41px;
+    color: rgb(255, 255, 255);
+    font-family: Lato;
+    font-size: 14px;
+  }
+  
+  .class__footer__end__span {
+    color: rgb(34, 34, 36);
+    font-family: Lato;
+    font-size: 18px;
+  }
+  
+  .class__div__end {
+    background: rgb(34, 34, 36);
+    height: 79px;
+  }
+  
+  .class__div__end__1 {
+    display: flex;
+    align-items: center;
+    padding: 30px 212px;
+  }
+  
+  .text__p__end__3 {
+    color: rgb(251, 251, 251);
+    font-family: Lato;
+    font-size: 16px;
+  }
+  
+  .text__img__end__3 {
+    position: relative;
+    left: 732px;
+  }
+  /*# sourceMappingURL=live.css.map */
+  
+  
